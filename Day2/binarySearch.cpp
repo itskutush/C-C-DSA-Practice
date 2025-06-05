@@ -24,7 +24,7 @@ int main(){
     }
 }
     
-//Time complexity of binary search : O(n)    
+//Time complexity of binary search : O(log n)    
     
 
 
